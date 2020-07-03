@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DiscordRPC
+</name>
+</assembly>
+<members>
+<member name="F:DiscordRPC.INI_Manager.INI_File">
+	<summary>
+ The INI File Location.
+ </summary>
+</member><member name="M:DiscordRPC.INI_Manager.Set_Value(System.String,System.String,System.String)">
+	<summary>
+ Set a value.
+ </summary>
+	<param name="File">The INI file location</param>
+	<param name="ValueName">The value name</param>
+	<param name="Value">The value data</param>
+</member><member name="M:DiscordRPC.INI_Manager.Load_Value(System.String,System.String)">
+	<summary>
+ Load a value.
+ </summary>
+	<param name="File">The INI file location</param>
+	<param name="ValueName">The value name</param>
+	<returns>The value itself</returns>
+</member><member name="M:DiscordRPC.INI_Manager.Delete_Value(System.String,System.String)">
+	<summary>
+ Delete a key.
+ </summary>
+	<param name="File">The INI file location</param>
+	<param name="ValueName">The value name</param>
+</member><member name="M:DiscordRPC.INI_Manager.Sort_Values(System.String)">
+	<summary>
+ Sorts the entire INI File.
+ </summary>
+	<param name="File">The INI file location</param>
+</member><member name="P:DiscordRPC.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DiscordRPC.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DiscordRPC.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

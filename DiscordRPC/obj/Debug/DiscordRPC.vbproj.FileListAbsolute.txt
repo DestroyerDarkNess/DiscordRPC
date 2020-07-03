@@ -1,0 +1,8 @@
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\DiscordRPC\DiscordRPC\bin\Debug\DiscordRPC.dll
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\DiscordRPC\DiscordRPC\bin\Debug\DiscordRPC.pdb
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\DiscordRPC\DiscordRPC\bin\Debug\DiscordRPC.xml
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\DiscordRPC\DiscordRPC\obj\Debug\DiscordRPC.Resources.resources
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\DiscordRPC\DiscordRPC\obj\Debug\DiscordRPC.vbproj.GenerateResource.Cache
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\DiscordRPC\DiscordRPC\obj\Debug\DiscordRPC.dll
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\DiscordRPC\DiscordRPC\obj\Debug\DiscordRPC.xml
+c:\users\s4lsalsoft\documents\visual studio 2013\Projects\DiscordRPC\DiscordRPC\obj\Debug\DiscordRPC.pdb
