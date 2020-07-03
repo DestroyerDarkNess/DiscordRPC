@@ -7,8 +7,8 @@ Discord Rich Presence . [Plugin For NetLoader]
 
 ## Instructions
 
-1) Download: ["NetLoaderv3"](https://github.com/DestroyerDarkNess/NetLoader/releases/download/v0.3/NetLoaderv0.3.rar)
-- For SAMP : ["NetLoaderv3"](https://github.com/DestroyerDarkNess/NetLoader/releases/download/v0.3/NetLoader_for_ASILoaderv3.zip)
+1) Download: [NetLoaderv3](https://github.com/DestroyerDarkNess/NetLoader/releases/download/v0.3/NetLoaderv0.3.rar)
+- For SAMP : [NetLoaderv3 For ASI Loader](https://github.com/DestroyerDarkNess/NetLoader/releases/download/v0.3/NetLoader_for_ASILoaderv3.zip)
 
 2) Download DiscordRPC Plugin.
 3) Extract [Discord RPC Plugin] and extract it into the ["NetPlugins"] folder in the [NetLoader]. 
