@@ -24,7 +24,7 @@ Public Class dllmain
     Public Shared APP_LargeImageText As String = "Using NetLoader Plugin"
 
     Public Shared Function Main() As String
-        Dim WelcomMessage As String = " Load Your DLLs into SAMP without the need for External Injectors. "
+        Dim WelcomMessage As String = " Discord Rich Presence Customizable For your games and Programs. "
         Dim tskThread As New Task(ScanAsyc, TaskCreationOptions.LongRunning)
         tskThread.Start()
         Return WelcomMessage
